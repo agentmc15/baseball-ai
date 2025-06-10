@@ -1,6 +1,1 @@
-requests==2.31.0
-beautifulsoup4==4.12.2
-duckdb==0.9.2
-pandas==2.1.4
-lxml==4.9.3
-pybaseball
+-r backend/requirements/base.txt
